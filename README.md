@@ -33,16 +33,25 @@
   
   <!-- New section for DevOps -->
   <h3 align="left">DevOps Skills:</h3>
-  <p align="left">
-    - Automation with <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">Jenkins</a>
-    - Infrastructure as Code (IaC) with <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">Terraform</a>
-    - Containerization with <a href="https://www.docker.com/" target="_blank" rel="noreferrer">Docker</a>
-    - Orchestration with <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">Kubernetes</a>
-    - Configuration Management with <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">Ansible</a>
-    - Monitoring and Logging with <a href="https://grafana.com" target="_blank" rel="noreferrer">Grafana</a> and <a href="https://prometheus.io/" target="_blank" rel="noreferrer">Prometheus</a>
-    - Version Control with <a href="https://git-scm.com/" target="_blank" rel="noreferrer">Git</a>
-    - ... (other DevOps tools and practices) ...
-  </p>
+<ul align="left">
+  <li>Automation with <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">Jenkins</a></li>
+  <li>Infrastructure as Code (IaC) with <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">Terraform</a></li>
+  <li>Containerization with <a href="https://www.docker.com/" target="_blank" rel="noreferrer">Docker</a></li>
+  <li>Configuration Management with <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">Ansible</a></li>
+  <li>Monitoring and Logging with <a href="https://grafana.com" target="_blank" rel="noreferrer">Grafana</a> and <a href="https://prometheus.io/" target="_blank" rel="noreferrer">Prometheus</a></li>
+  <li>Version Control with <a href="https://git-scm.com/" target="_blank" rel="noreferrer">Git</a></li>
+  <li>Agile Software Development and Scrum methodologies</li>
+  <li>Continuous Integration & Delivery (CI/CD) practices</li>
+  <li>Cloud Services, particularly in AWS</li>
+  <li>Security Best Practices in DevOps</li>
+  <li>Incident Response and Management</li>
+  <li>Collaboration and Communication tools (e.g., Slack, Microsoft Teams)</li>
+  <li>Scripting languages, including Python and Bash</li>
+  <li>Performance Optimization and Scalability</li>
+  <li>... (other DevOps tools and practices)</li>
+</ul>
+
+
 
   <!-- Language proficiency -->
   <h3 align="left">Language Proficiency:</h3>
