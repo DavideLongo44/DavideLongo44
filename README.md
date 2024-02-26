@@ -83,3 +83,21 @@
 
 This comprehensive training program equipped me with a diverse skill set, covering essential aspects of Cloud Computing and DevOps. It included hands-on experience with AWS, proficiency in infrastructure automation tools like Terraform and Ansible, and expertise in implementing Agile methodologies for software development. The program also emphasized cloud monitoring, metrics, and continuous integration, ensuring a well-rounded understanding of modern DevOps practices. The successful completion of the program was marked by achieving the "IT Specialist in Cloud Computing and DevOps" certification.
 
+## Learning and Development:
+
+I am committed to continuous learning and staying abreast of the latest technologies and methodologies in the tech industry. Currently, my focus is on expanding my knowledge in the following areas:
+
+- **AWS Cloud Practitioner Certification:**
+  - *Achieved AWS Cloud Practitioner Certification*, demonstrating foundational knowledge of AWS cloud services.
+
+- **Scrum Master Certification (PSM I):**
+  - *Currently studying for the Professional Scrum Master I (PSM I) certification*, aiming to deepen my understanding of Scrum methodologies for effective project management.
+
+- **Linux Essentials:**
+  - *Engaged in learning Linux Essentials*, enhancing my proficiency in Linux systems administration and command-line operations.
+
+- **AWS Cloud Architect Associate:**
+  - *Embarking on the journey to attain AWS Cloud Architect Associate Certification*, aiming for a comprehensive understanding of architecting solutions on AWS.
+
+This commitment to ongoing education ensures that I am well-equipped to tackle the evolving challenges of the DevOps landscape and deliver optimal solutions to the projects I undertake.
+
