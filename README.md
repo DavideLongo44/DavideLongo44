@@ -52,4 +52,25 @@
     - German (C1 proficiency)
   </p>
 </p>
+<h3 align="left">Professional Experience:</h3>
+
+**Cloud Computing and DevOps Training Program**
+*12-month full-time training program in Cloud Computing culminating in the certification exam for "IT Specialist in Cloud Computing and DevOps"*
+
+### Contents:
+- Fundamentals of Cloud Environment
+- Linux Basics
+- Networking & Security
+- Python Programming
+- Database Management
+- AWS Fundamentals / Advanced AWS
+- Agile Software Development (Scrum)
+- Cloud Monitoring & Metrics
+- Performance Measurement
+- Infrastructure as Code (Terraform & Ansible)
+- Infrastructure Automation
+- Continuous Integration & Delivery
+- Software Quality Assurance
+
+This comprehensive training program equipped me with a diverse skill set, covering essential aspects of Cloud Computing and DevOps. It included hands-on experience with AWS, proficiency in infrastructure automation tools like Terraform and Ansible, and expertise in implementing Agile methodologies for software development. The program also emphasized cloud monitoring, metrics, and continuous integration, ensuring a well-rounded understanding of modern DevOps practices. The successful completion of the program was marked by achieving the "IT Specialist in Cloud Computing and DevOps" certification.
 
