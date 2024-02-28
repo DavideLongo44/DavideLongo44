@@ -102,5 +102,5 @@ I am committed to continuous learning and staying abreast of the latest technolo
 - **AWS Cloud Architect Associate:**
   - *Embarking on the journey to attain AWS Cloud Architect Associate Certification*, aiming for a comprehensive understanding of architecting solutions on AWS.
 
-This commitment to ongoing education ensures that I am well-equipped to tackle the evolving challenges of the DevOps landscape and deliver optimal solutions to the projects I undertake.
+This commitment to ongoing education ensures that I am well-equipped to tackle the evolving challenges of the DevOps landscape and deliver optimal solutions to the projects I undertake. 
 
