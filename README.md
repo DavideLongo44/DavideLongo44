@@ -58,11 +58,11 @@
 
   <!-- Language proficiency -->
   <h3 align="left">Language Proficiency:</h3>
-  <p align="left">
-    - Italian (Native)
-    - English (B2 proficiency)
-    - German (C1 proficiency)
-  </p>
+  <ul align="left">
+    <li>Italian (Native) </li>
+    <li>English (B2 proficiency) </li>
+    <li>German (C1 proficiency) </li>
+  </ul>
 </p>
 <h3 align="left">Professional Experience:</h3>
 
