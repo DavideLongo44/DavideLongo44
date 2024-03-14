@@ -93,13 +93,14 @@ I am committed to continuous learning and staying abreast of the latest technolo
   - *Achieved AWS Cloud Practitioner Certification*, demonstrating foundational knowledge of AWS cloud services.
 
 - **Scrum Master Certification (PSM I):**
-  - *Currently studying for the Professional Scrum Master I (PSM I) certification*, aiming to deepen my understanding of Scrum methodologies for effective project management.
+  - *Successfully attained Professional Scrum Master I (PSM I) certification*, deepening my understanding of Scrum methodologies for effective project management.
 
 - **Linux Essentials:**
-  - *Engaged in learning Linux Essentials*, enhancing my proficiency in Linux systems administration and command-line operations.
+  - *Obtained Linux Essentials Certification*, enhancing my proficiency in Linux systems administration and command-line operations.
 
 - **AWS Cloud Architect Associate:**
   - *Embarking on the journey to attain AWS Cloud Architect Associate Certification*, aiming for a comprehensive understanding of architecting solutions on AWS.
 
-This commitment to ongoing education ensures that I am well-equipped to tackle the evolving challenges of the DevOps landscape and deliver optimal solutions to the projects I undertake. 
+This commitment to ongoing education ensures that I am well-equipped to tackle the evolving challenges of the DevOps landscape and deliver optimal solutions to the projects I undertake.
+**
 
