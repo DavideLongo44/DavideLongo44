@@ -22,6 +22,8 @@
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
+  <a href="https://www.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a>
+  <a href="https://www.rancher.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg" alt="rancher" width="40" height="40"/> </a>
   <!-- ... (other technologies/tools) ... -->
 
   <!-- New section for languages -->
@@ -35,7 +37,7 @@
   </p>
   
   <!-- New section for DevOps -->
-  <h3 align="left">DevOps Skills:</h3>
+<h3 align="left">DevOps Skills:</h3>
 <ul align="left">
   <li>Automation with <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">Jenkins</a></li>
   <li>Infrastructure as Code (IaC) with <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">Terraform</a></li>
@@ -45,13 +47,16 @@
   <li>Version Control with <a href="https://git-scm.com/" target="_blank" rel="noreferrer">Git</a></li>
   <li>Agile Software Development and Scrum methodologies</li>
   <li>Continuous Integration & Delivery (CI/CD) practices</li>
-  <li>Cloud Services, particularly in AWS</li>
+  <li>Cloud Services, particularly in <a href="https://www.aws.amazon.com/" target="_blank" rel="noreferrer">AWS</a> and <a href="https://www.ionos.com/" target="_blank" rel="noreferrer">IONOS Cloud</a></li>
+  <li>Identity and Access Management with <a href="https://www.keycloak.org/" target="_blank" rel="noreferrer">Keycloak</a></li>
+  <li>Container Orchestration with <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">Kubernetes</a></li>
+  <li>GitLab for Version Control and CI/CD</li>
+  <li>Collaboration and Communication tools (e.g., <a href="https://slack.com" target="_blank" rel="noreferrer">Slack</a>, <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank" rel="noreferrer">Microsoft Teams</a>)</li>
+  <li>Scripting languages, including <a href="https://www.python.org/" target="_blank" rel="noreferrer">Python</a> and <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">Bash</a></li>
+  <li>Performance Optimization and Scalability</li>
   <li>Security Best Practices in DevOps</li>
   <li>Incident Response and Management</li>
-  <li>Collaboration and Communication tools (e.g., Slack, Microsoft Teams)</li>
-  <li>Scripting languages, including Python and Bash</li>
-  <li>Performance Optimization and Scalability</li>
-  <li>... (other DevOps tools and practices)</li>
+  <li>Collaboration tools such as <a href="https://slack.com" target="_blank" rel="noreferrer">Slack</a> and <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank" rel="noreferrer">Microsoft Teams</a></li>
 </ul>
 
 
@@ -65,6 +70,18 @@
   </ul>
 </p>
 <h3 align="left">Professional Experience:</h3>
+
+**Junior DevOps Solution Developer** - *Disy*  
+*June 2024 - November 2024*  
+*Responsibilities:*
+- Assisted in managing cloud infrastructure using AWS and Terraform, focusing on automation and scalability.
+- Collaborated in deploying containerized applications using Docker and Kubernetes.
+- Developed and maintained CI/CD pipelines with GitLab and Jenkins to streamline deployment processes.
+- Implemented configuration management and infrastructure automation using Ansible and Terraform.
+- Assisted in the integration of monitoring tools like Prometheus and Grafana to ensure cloud infrastructure health.
+- Supported team efforts to optimize software delivery and maintain cloud infrastructure.
+
+*Technologies Used: AWS, Terraform, Kubernetes, Docker, GitLab, Jenkins, Prometheus, Grafana, Ansible, Python*
 
 **Cloud Computing and DevOps Training Program**
 *12-month full-time training program in Cloud Computing culminating in the certification exam for "IT Specialist in Cloud Computing and DevOps"*
