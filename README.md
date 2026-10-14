@@ -75,15 +75,17 @@
 <h3 align="left">Professional Experience:</h3>
 
 **IT Operations Engineer** - *XIBIX*  
-*May 2025 - Present*  
+*May 2025 - Present | Munich / Remote*  
+*Client: BMW Group - xCC.Next / RAMS Remote Services*  
 *Responsibilities and focus areas:*
-- Operating and supporting cloud-based infrastructure and services.
-- Monitoring system performance, availability, and reliability with Dynatrace and Grafana.
-- Working with AWS and STACKIT cloud environments.
-- Contributing to incident management, troubleshooting, and continuous improvement of IT operations.
-- Supporting secure, scalable, and reliable cloud engineering practices.
+- Operating and providing technical support for productive cloud and microservice applications in the BMW environment, including Kubernetes services such as pod analysis and restarts.
+- Managing incidents and problems through ServiceNow and supporting the 24/7 on-call operation during time-critical production incidents.
+- Monitoring and troubleshooting with Grafana, Prometheus, Dynatrace, and Kibana.
+- Analysing and recovering failed messages using AWS SQS, Dead Letter Queues (DLQs), and redrive processes.
+- Acting as the primary contact for BMW in the CCTS project, coordinating technical resolution across multiple teams and aligning with stakeholders.
+- Creating and maintaining technical documentation, runbooks, and troubleshooting guides in Confluence.
 
-*Technologies Used: Dynatrace, Grafana, AWS, STACKIT Cloud*
+*Technologies Used: Kubernetes, ServiceNow, Grafana, Prometheus, Dynatrace, Kibana, AWS SQS, Confluence*
 
 **Junior DevOps Solution Developer** - *Disy*  
 *June 2024 - November 2024*  
