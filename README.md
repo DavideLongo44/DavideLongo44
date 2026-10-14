@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davide Longo</h1>
-<h3 align="center">A passionate DevOps Engineer from Italy</h3>
+<h3 align="center">IT Operations Engineer at XIBIX | DevOps & Cloud Engineer</h3>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=davidelongo44&label=Profile%20views&color=0e75b6&style=flat" alt="davidelongo44" />
@@ -19,6 +19,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
+  <a href="https://www.dynatrace.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/dynatrace/1496FF" alt="Dynatrace" width="40" height="40"/> </a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
@@ -44,10 +45,12 @@
   <li>Containerization with <a href="https://www.docker.com/" target="_blank" rel="noreferrer">Docker</a></li>
   <li>Configuration Management with <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">Ansible</a></li>
   <li>Monitoring and Logging with <a href="https://grafana.com" target="_blank" rel="noreferrer">Grafana</a> and <a href="https://prometheus.io/" target="_blank" rel="noreferrer">Prometheus</a></li>
+  <li>Observability and application monitoring with <a href="https://www.dynatrace.com/" target="_blank" rel="noreferrer">Dynatrace</a></li>
   <li>Version Control with <a href="https://git-scm.com/" target="_blank" rel="noreferrer">Git</a></li>
   <li>Agile Software Development and Scrum methodologies</li>
   <li>Continuous Integration & Delivery (CI/CD) practices</li>
   <li>Cloud Services, particularly in <a href="https://www.aws.amazon.com/" target="_blank" rel="noreferrer">AWS</a> and <a href="https://www.ionos.com/" target="_blank" rel="noreferrer">IONOS Cloud</a></li>
+  <li>Cloud engineering with <a href="https://www.stackit.de/en/" target="_blank" rel="noreferrer">STACKIT Cloud</a></li>
   <li>Identity and Access Management with <a href="https://www.keycloak.org/" target="_blank" rel="noreferrer">Keycloak</a></li>
   <li>Container Orchestration with <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">Kubernetes</a></li>
   <li>GitLab for Version Control and CI/CD</li>
@@ -70,6 +73,19 @@
   </ul>
 </p>
 <h3 align="left">Professional Experience:</h3>
+
+**IT Operations Engineer** - *XIBIX*  
+*May 2025 - Present | Munich / Remote*  
+*Client: BMW Group - xCC.Next / RAMS Remote Services*  
+*Responsibilities and focus areas:*
+- Operating and providing technical support for productive cloud and microservice applications in the BMW environment, including Kubernetes services such as pod analysis and restarts.
+- Managing incidents and problems through ServiceNow and supporting the 24/7 on-call operation during time-critical production incidents.
+- Monitoring and troubleshooting with Grafana, Prometheus, Dynatrace, and Kibana.
+- Analysing and recovering failed messages using AWS SQS, Dead Letter Queues (DLQs), and redrive processes.
+- Acting as the primary contact for BMW in the CCTS project, coordinating technical resolution across multiple teams and aligning with stakeholders.
+- Creating and maintaining technical documentation, runbooks, and troubleshooting guides in Confluence.
+
+*Technologies Used: Kubernetes, ServiceNow, Grafana, Prometheus, Dynatrace, Kibana, AWS SQS, Confluence*
 
 **Junior DevOps Solution Developer** - *Disy*  
 *June 2024 - November 2024*  
@@ -115,6 +131,9 @@ I am committed to continuous learning and staying abreast of the latest technolo
 
 - **Linux Essentials:**
   - *Obtained Linux Essentials Certification*, enhancing my proficiency in Linux systems administration and command-line operations.
+
+- **STACKIT Cloud Engineer:**
+  - *Obtained the STACKIT Cloud Engineer certification*, validating my knowledge of cloud engineering concepts and STACKIT cloud technologies.
 
 - **AWS Cloud Architect Associate:**
   - *Embarking on the journey to attain AWS Cloud Architect Associate Certification*, aiming for a comprehensive understanding of architecting solutions on AWS.
